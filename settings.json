@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "lifstealSMP-bqqG.aternos.me",
-    "port": 23861,
+    "port":23861 ,
     "version": "",
     "try-creative": false
   },
